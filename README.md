@@ -30,7 +30,7 @@ Based on clearance theme. Display the following bits on the left:
 ## Screenshot
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tungpun/lavender-fish-theme/master/screenshot.png">
+<img src="https://raw.githubusercontent.com/tungpun/fish-theme-lavender/master/screenshot.png">
 </p>
 
 
@@ -41,7 +41,7 @@ Based on clearance theme. Display the following bits on the left:
 
 [mit]:            https://opensource.org/licenses/MIT
 [author]:         https://github.com/tungpun/
-[contributors]:   https://github.com/tungpun/lavender-fish-theme/graphs/contributors
+[contributors]:   https://github.com/tungpun/fish-theme-lavender/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
