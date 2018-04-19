@@ -30,7 +30,7 @@ Based on clearance theme. Display the following bits on the left:
 ## Screenshot
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tungpun/fish-theme-lavender/master/screenshot.png">
+<img src="https://i.imgur.com/Z4gjCyU.png">
 </p>
 
 
