@@ -28,7 +28,7 @@ function fish_prompt
 
   set -l cwd $yellow(pwd | sed "s:^$HOME:~:")
   set -l username $cyan(whoami)
-  set -l host $blue(hostname)
+  set -l host $blue(hostname -s)
 
   # Output the prompt, left to right
 
